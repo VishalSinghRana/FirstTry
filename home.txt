@@ -1,1 +1,2 @@
-This change is made after inmstalling github desktop on the PC.
+This change is made after installing github desktop on the PC.
+And this should be good.
